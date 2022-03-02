@@ -1,1 +1,18 @@
 https://www.youtube.com/watch?v=Oe421EPjeBE
+
+
+used git config in this git repo :
+
+#git config user.name "pvinodp"
+#git config user.email "pvinodp@gmail.com"
+
+
+to create a git repo locally and pus it to remote
+
+git init
+create .gitignore files
+git add .
+git commit -m"gnsngsg"
+git remote add origin <<git@ngn***.git>>
+git push -u origin main
+
